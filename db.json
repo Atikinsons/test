@@ -7,12 +7,55 @@
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnJylhHFDRhWYYBLCOiphtNKya8O51oxaxQ&s",
             "balance": 1488
         },  
-    {
+        {
+            "id": 1,
+            "name": "Andriy",
+            "Surname" : "Kudriavchenko",
+            "photo_url" : "",
+            "balance" : 1000149
+        }   
+    ],
+    "products": [
+        {
         "id": 1,
-        "name": "Andriy",
-        "Surname" : "Kudriavchenko",
-        "photo_url" : "",
-        "balance" : 1000149
-    }   
-    ]
+        "title": "Гараж",
+        "img": "",
+        "price": 111,
+        "description": "asjijifosjpasod",
+        "seller_id": 1
+        },
+        {
+        "id": 3,
+        "title": "Велосипед горный",
+        "img": "",
+        "price": 18450,
+        "description": "Надёжный MTB, алюминиевая рама, 21 скорость.",
+        "seller_id": 3
+        },
+        {
+        "id": 5,
+        "title": "Ноутбук UltraBook 14",
+        "img": "",
+        "price": 62990,
+        "description": "Лёгкий, 16GB RAM, 512GB SSD, IPS 14''.",
+        "seller_id": 5
+        },
+        {
+        "id": 7,
+        "title": "Кофемашина HomeBrew",
+        "img": "",
+        "price": 12999,
+        "description": "Готовит эспрессо, капучино, латте. Автоочистка.",
+        "seller_id": 7
+        },
+        {
+        "id": 9,
+        "title": "Электросамокат SwiftRide",
+        "img": "",
+        "price": 24800,
+        "description": "Мощность 350W, дальность 25 км, складной.",
+        "seller_id": 9
+        }
+  ]
+
 }
