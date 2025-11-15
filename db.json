@@ -14,5 +14,46 @@
         "photo_url" : "",
         "balance" : 1000149
     }   
+    ],
+    "products":[
+        {
+            "id":2,
+            "title": "Bohdan",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XdYC1P5FYYyqhg6qNbOC-CIMVYYZw98p4Q&s",
+            "price": 0.001,
+            "description": "занадто розумний щоб жити",
+            "seller_id":1
+        },
+        {
+            "id":4,
+            "title": "Mukuta",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_RbrckvdPqCeXq4VgzYgS7qD_kE2XuGErIw&s",
+            "price": 1,
+            "description": "машина для коднгу",
+            "seller_id":8
+        },
+        {
+            "id":6,
+            "title": "Nikita",
+            "img": "https://media.4-paws.org/1/5/e/2/15e2e7bb7be82e955d85ac515200ad121d64d087/VIER%20PFOTEN_2025-02-18_00108-2736x1824-2286x1582-1920x1329.jpg",
+            "price": 0.1,
+            "description": "дебіл для кодингу",
+            "seller_id":12
+        },
+        {
+            "id":44,
+            "title": "Timofi",
+            "img": "https://hips.hearstapps.com/hmg-prod/images/headshot-of-giraffe-sabi-sands-game-reserve-royalty-free-image-1573571198.jpg?crop=1.00xw:0.667xh;0,0.0760xh",
+            "price": 3,
+            "description": "хтось!",
+            "seller_id":54
+        },{
+            "id":44,
+            "title": "Dana",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSBjigdrNmRFWNbYtaJEtcvcvt71uHtj-X4w&s",
+            "price": 3,
+            "description": "хтось ще!",
+            "seller_id":62
+        }
     ]
 }
