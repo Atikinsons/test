@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 2,
+            "name":"Nikita",
+            "Surname":"Bohdanovych",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnJylhHFDRhWYYBLCOiphtNKya8O51oxaxQ&s",
+            "balance": 1488
+        }
     ]
 }
