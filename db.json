@@ -6,6 +6,13 @@
             "Surname":"Bohdanovych",
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnJylhHFDRhWYYBLCOiphtNKya8O51oxaxQ&s",
             "balance": 1488
-        }
+        },  
+    {
+        "id": 1,
+        "name": "Andriy",
+        "Surname" : "Kudriavchenko",
+        "photo_url" : "",
+        "balance" : 1000149
+    }   
     ]
 }
